@@ -106,7 +106,8 @@ java -jar target/news-aggregator.jar
 │                   ├── filters
 │                   ├── repository
 │                   └── services
-
+│                   └── storage
+│                   └── viewers
 
 ## 🔄 Взаимодействие классов
 
